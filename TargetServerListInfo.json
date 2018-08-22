@@ -1,6 +1,6 @@
 {
 	"target_server_list":
 	[
-		{"region_code":"aws_singapore","url":"https://s3.ap-southeast-1.amazonaws.com/nc-latency-singapore/index.html","ping":true,"http_ping":true}
+		{"region_code":"aws_mumbai","url":"https://s3.ap-south-1.amazonaws.com/nc-latency-mumbai/index.html","ping":true,"http_ping":true}
 	]
 }
