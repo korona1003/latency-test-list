@@ -1,6 +1,6 @@
 {
 	"target_server_list":
 	[
-		{"region_code":"aws_oregon","url":"https://s3.us-west-2.amazonaws.com/nc-latency-oregon/index.html","ping":true,"http_ping":true}
+		{"region_code":"aws_ohio","url":"https://s3.us-east-2.amazonaws.com/nc-latency-ohio/index.html","ping":true,"http_ping":true}
 	]
 }
