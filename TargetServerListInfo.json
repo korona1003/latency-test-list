@@ -1,6 +1,6 @@
 {
 	"target_server_list":
 	[
-		{"region_code":"aws_california","url":"https://s3.us-west-1.amazonaws.com/nc-latency-california/index.html","ping":true,"http_ping":true}
+		{"region_code":"aws_virginia","url":"https://s3.us-east-1.amazonaws.com/nc-latency-virginia/index.html","ping":true,"http_ping":true}
 	]
 }
