@@ -1,6 +1,6 @@
 {
 	"target_server_list":
 	[
-		
+		{"region_code":"aws_seoul","url":"https://s3.ap-northeast-2.amazonaws.com/nc-latency-seoul/index.html","ping":true,"http_ping":true}
 	]
 }
