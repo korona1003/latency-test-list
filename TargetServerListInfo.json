@@ -1,6 +1,6 @@
 {
 	"target_server_list":
 	[
-		{"region_code":"np_ncj","url":"https://nc-latency-ncj.ncjapan.co.jp/index.html","ping":true,"http_ping":true}
+		
 	]
 }
