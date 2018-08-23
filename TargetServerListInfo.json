@@ -1,6 +1,6 @@
 {
 	"target_server_list":
 	[
-		{"region_code":"aws_sanpaolo","url":"https://s3.sa-east-1.amazonaws.com/nc-latency-sanpaolo/index.html","ping":true,"http_ping":true}
+		{"region_code":"np_ncs","url":"https://nc-latency-ncs.plaync.com/index.html","ping":false,"http_ping":true}
 	]
 }
