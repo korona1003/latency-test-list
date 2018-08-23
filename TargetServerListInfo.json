@@ -1,6 +1,6 @@
 {
 	"target_server_list":
 	[
-		{"region_code":"aws_frankfurt","url":"https://s3.eu-central-1.amazonaws.com/nc-latency-frankfurt/index.html","ping":true,"http_ping":true}
+		{"region_code":"aws_ireland","url":"https://s3.eu-west-1.amazonaws.com/nc-latency-ireland/index.html","ping":true,"http_ping":true}
 	]
 }
