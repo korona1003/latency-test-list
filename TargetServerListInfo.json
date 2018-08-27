@@ -1,22 +1,22 @@
 {
 	"target_server_list":
 	[
-		{"region_code":"aws_seoul","url":"https://s3.ap-northeast-2.amazonaws.com/nc-latency-seoul/index.html","ping":false,"http_ping":false},
-		{"region_code":"aws_sydney","url":"https://s3.ap-southeast-2.amazonaws.com/nc-latency-sydney/index.html","ping":false,"http_ping":false},
-		{"region_code":"aws_tokyo","url":"https://s3.ap-northeast-1.amazonaws.com/nc-latency-tokyo/index.html","ping":false,"http_ping":false},
-		{"region_code":"aws_singapore","url":"https://s3.ap-southeast-1.amazonaws.com/nc-latency-singapore/index.html","ping":false,"http_ping":false},
-		{"region_code":"aws_mumbai","url":"https://s3.ap-south-1.amazonaws.com/nc-latency-mumbai/index.html","ping":false,"http_ping":false},
-		{"region_code":"aws_california","url":"https://s3.us-west-1.amazonaws.com/nc-latency-california/index.html","ping":false,"http_ping":false},
-		{"region_code":"aws_virginia","url":"https://s3.us-east-1.amazonaws.com/nc-latency-virginia/index.html","ping":false,"http_ping":false},
-		{"region_code":"aws_oregon","url":"https://s3.us-west-2.amazonaws.com/nc-latency-oregon/index.html","ping":false,"http_ping":false},
-		{"region_code":"aws_ohio","url":"https://s3.us-east-2.amazonaws.com/nc-latency-ohio/index.html","ping":false,"http_ping":false},
-		{"region_code":"aws_central","url":"https://s3.ca-central-1.amazonaws.com/nc-latency-central/index.html","ping":false,"http_ping":false},
-		{"region_code":"aws_frankfurt","url":"https://s3.eu-central-1.amazonaws.com/nc-latency-frankfurt/index.html","ping":false,"http_ping":false},
-		{"region_code":"aws_ireland","url":"https://s3.eu-west-1.amazonaws.com/nc-latency-ireland/index.html","ping":false,"http_ping":false},
-		{"region_code":"aws_london","url":"https://s3.eu-west-2.amazonaws.com/nc-latency-london/index.html","ping":false,"http_ping":false},
-		{"region_code":"aws_paris","url":"https://s3.eu-west-3.amazonaws.com/nc-latency-paris/index.html","ping":false,"http_ping":false},
-		{"region_code":"aws_sanpaolo","url":"https://s3.sa-east-1.amazonaws.com/nc-latency-sanpaolo/index.html","ping":false,"http_ping":false},
-		{"region_code":"np_ncs","url":"https://nc-latency-ncs.plaync.com/index.html","ping":false,"http_ping":false},
-		{"region_code":"np_ncj","url":"https://nc-latency-ncj.ncjapan.co.jp/index.html","ping":false,"http_ping":false}
+		{"region_code":"aws_seoul","url":"https://s3.ap-northeast-2.amazonaws.com/nc-latency-seoul/index.html","ping":true,"http_ping":true},
+		{"region_code":"aws_sydney","url":"https://s3.ap-southeast-2.amazonaws.com/nc-latency-sydney/index.html","ping":true,"http_ping":true},
+		{"region_code":"aws_tokyo","url":"https://s3.ap-northeast-1.amazonaws.com/nc-latency-tokyo/index.html","ping":true,"http_ping":true},
+		{"region_code":"aws_singapore","url":"https://s3.ap-southeast-1.amazonaws.com/nc-latency-singapore/index.html","ping":true,"http_ping":true},
+		{"region_code":"aws_mumbai","url":"https://s3.ap-south-1.amazonaws.com/nc-latency-mumbai/index.html","ping":true,"http_ping":true},
+		{"region_code":"aws_california","url":"https://s3.us-west-1.amazonaws.com/nc-latency-california/index.html","ping":true,"http_ping":true},
+		{"region_code":"aws_virginia","url":"https://s3.us-east-1.amazonaws.com/nc-latency-virginia/index.html","ping":true,"http_ping":true},
+		{"region_code":"aws_oregon","url":"https://s3.us-west-2.amazonaws.com/nc-latency-oregon/index.html","ping":true,"http_ping":true},
+		{"region_code":"aws_ohio","url":"https://s3.us-east-2.amazonaws.com/nc-latency-ohio/index.html","ping":true,"http_ping":true},
+		{"region_code":"aws_central","url":"https://s3.ca-central-1.amazonaws.com/nc-latency-central/index.html","ping":true,"http_ping":true},
+		{"region_code":"aws_frankfurt","url":"https://s3.eu-central-1.amazonaws.com/nc-latency-frankfurt/index.html","ping":true,"http_ping":true},
+		{"region_code":"aws_ireland","url":"https://s3.eu-west-1.amazonaws.com/nc-latency-ireland/index.html","ping":true,"http_ping":true},
+		{"region_code":"aws_london","url":"https://s3.eu-west-2.amazonaws.com/nc-latency-london/index.html","ping":true,"http_ping":true},
+		{"region_code":"aws_paris","url":"https://s3.eu-west-3.amazonaws.com/nc-latency-paris/index.html","ping":true,"http_ping":true},
+		{"region_code":"aws_sanpaolo","url":"https://s3.sa-east-1.amazonaws.com/nc-latency-sanpaolo/index.html","ping":true,"http_ping":true},
+		{"region_code":"np_ncs","url":"https://nc-latency-ncs.plaync.com/index.html","ping":true,"http_ping":true},
+		{"region_code":"np_ncj","url":"https://nc-latency-ncj.ncjapan.co.jp/index.html","ping":true,"http_ping":true}
 	]
 }
